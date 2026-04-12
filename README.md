@@ -9,6 +9,8 @@
 
 # Resources
 
+### Screenshot & Localization Tools
+- [Shotlingo](https://shotlingo.com) — Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
 ### Keyword Research Tools
 - [ASO Zen](https://asozen.com)
 - [App Annie](https://appannie.com)
