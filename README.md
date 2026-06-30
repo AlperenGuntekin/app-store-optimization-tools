@@ -5,6 +5,7 @@
 
 - [Keyword Research Tools](#keyword-research)
 - [App Analytics](#app-analytics)
+- [Related Tools](#related-tools)
 - [Books](#books)
 
 # Resources
@@ -15,3 +16,12 @@
 - [Sensor Tower](https://sensortower.com)
 - [Mobile Action](https://mobileaction.com)
 - [App Follow](https://appfollow.com)
+
+### Related Tools
+
+- [App Store screenshot sizes reference](https://shotlingo.com/tools/screenshot-sizes) — current size requirements for every App Store & Google Play screenshot slot
+- [App Store rejection codes reference](https://shotlingo.com/tools/app-store-rejection-codes) — every App Review rejection code with the fix
+
+---
+
+<sub>Cross-linked by [the App Store screenshot generator](https://shotlingo.com), Shotlingo — AI-powered App Store screenshot localization for 40+ languages.</sub>
