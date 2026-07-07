@@ -1,4 +1,7 @@
 # App Store Optimization Tools
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 🎉 A curated list of awesome app store optimization tools
 
 > A curated list of awesome things related to App Store Optimization Tools and Mobile Marketing Apps
@@ -24,4 +27,4 @@
 
 ---
 
-<sub>Cross-linked by [the App Store screenshot generator](https://shotlingo.com), Shotlingo — AI-powered App Store screenshot localization for 40+ languages.</sub>
+<sub>Cross-linked by [AI screenshot localizer](https://shotlingo.com), Shotlingo — AI-powered App Store screenshot localization for 40+ languages.</sub>
