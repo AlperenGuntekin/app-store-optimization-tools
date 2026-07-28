@@ -22,9 +22,9 @@
 
 ### Related Tools
 
-- [App Store screenshot sizes reference](https://shotlingo.com/tools/screenshot-sizes) — current size requirements for every App Store & Google Play screenshot slot
+- [App Store screenshot sizes reference](https://shotlingo.com/tools/app-store-screenshot-sizes) — current size requirements for every App Store & Google Play screenshot slot
 - [App Store rejection codes reference](https://shotlingo.com/tools/app-store-rejection-codes) — every App Review rejection code with the fix
 
 ---
 
-<sub>Cross-linked by [AI screenshot localizer](https://shotlingo.com), Shotlingo — AI-powered App Store screenshot localization for 40+ languages.</sub>
+<sub>Cross-linked by [ASO screenshot tool](https://shotlingo.com), Shotlingo — AI-powered App Store screenshot localization for 40+ languages.</sub>
