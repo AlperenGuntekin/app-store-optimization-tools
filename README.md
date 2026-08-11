@@ -27,4 +27,4 @@
 
 ---
 
-<sub>Cross-linked by [ASO screenshot tool](https://shotlingo.com), Shotlingo — AI-powered App Store screenshot localization for 40+ languages.</sub>
+<sub>Cross-linked by [App Store screenshot generator](https://shotlingo.com), Shotlingo — AI-powered App Store screenshot localization for 40+ languages.</sub>
