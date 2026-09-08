@@ -27,4 +27,4 @@
 
 ---
 
-<sub>Cross-linked by [App Store localization checker](https://shotlingo.com), Shotlingo — AI-powered App Store screenshot localization for 40+ languages.</sub>
+<sub>Cross-linked by [App Store screenshot sizes reference](https://shotlingo.com), Shotlingo — AI-powered App Store screenshot localization for 40+ languages.</sub>
