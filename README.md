@@ -24,6 +24,7 @@
 
 - [App Store screenshot sizes reference](https://shotlingo.com/tools/app-store-screenshot-sizes) — current size requirements for every App Store & Google Play screenshot slot
 - [App Store rejection codes reference](https://shotlingo.com/tools/app-store-rejection-codes) — every App Review rejection code with the fix
+- [AppScreen](https://appscreen.pro) — free browser editor for App Store and Google Play screenshots, with captions, device frames and exports at every store size
 
 ---
 
